@@ -1,0 +1,6 @@
+#include <stdio.h>
+main()
+{
+	printf (“Hi guys! This is my first C practical.\n”);
+	return 0;
+}
